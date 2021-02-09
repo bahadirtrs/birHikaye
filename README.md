@@ -1,3 +1,2 @@
 # birHikaye
 
-## naber
